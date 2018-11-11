@@ -6,15 +6,7 @@ let notes = [{
   noteDateTimeModified: '',
   noteTitle: '',
   noteBody: '',
-},
-{
-  noteName: '',
-  noteDateCreate: '',
-  noteDateTimeCreate: '',
-  noteDateModified: '',
-  noteDateTimeModified: '',
-  noteTitle: '',
-  noteBody: '',
+  noteSnippet: ''
 }
 ];
 
