@@ -99,7 +99,7 @@ codesniffer.ruleset.xml export-ignore
     -   A popper is an element on the screen which "pops out" from the natural flow of your application.
     -   Common examples of poppers are tooltips, popovers, and drop-downs.
     -   Copyright © 2016 Federico Zivolo and contributors
-    -   <a href="https://travis-ci.org/FezVrasta/popper.js/branches" target="_blank"><img src="https://travis-ci.org/FezVrasta/popper.js.svg?branch=master&&style=social" alt="Build Status"/></a> [![GitHub forks](https://img.shields.io/github/forks/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/network) [![GitHub stars](https://img.shields.io/github/stars/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/stargazers) [![GitHub license](https://img.shields.io/github/license/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/blob/master/LICENSE.md)
+    -   <a href="https://travis-ci.org/FezVrasta/popper.js/branches" target="_blank"><img src="https://travis-ci.org/FezVrasta/popper.js.svg?branch=master" alt="Build Status"/></a> [![GitHub forks](https://img.shields.io/github/forks/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/network) [![GitHub stars](https://img.shields.io/github/stars/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/stargazers) [![GitHub license](https://img.shields.io/github/license/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/blob/master/LICENSE.md)
 -   PrismJS v1.15.0
     -   Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in thousands of websites, including some of those you visit daily.
     -   Copyright (c) 2012 Lea Verou
