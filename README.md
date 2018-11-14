@@ -83,7 +83,7 @@ codesniffer.ruleset.xml export-ignore
     -   The npm application
     -   Copyright (c) npm, Inc. and Contributors
     -   Licensed on the terms of The Artistic License 2.0
-    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub forks](https://img.shields.io/github/forks/npm/cli.svg?style=social)](https://github.com/npm/cli/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli.svg?style=social)](https://github.com/npm/cli/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
+    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg?style=social)](https://github.com/npm/cli/releases/latest) [![GitHub forks](https://img.shields.io/github/forks/npm/cli.svg?style=social)](https://github.com/npm/cli/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli.svg?style=social)](https://github.com/npm/cli/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
 
 -   Bootstrap
     -   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
