@@ -83,7 +83,7 @@ codesniffer.ruleset.xml export-ignore
     -   The npm application
     -   Copyright (c) npm, Inc. and Contributors
     -   Licensed on the terms of The Artistic License 2.0
-    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=social)](https://github.com/npm/cli/releases) [![GitHub forks](https://img.shields.io/github/forks/npm/cli.svg?style=social)](https://github.com/npm/cli/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli.svg?style=social)](https://github.com/npm/cli/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
+    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub release](https://img.shields.io/github/release/npm/cli.svg?style=social)](https://github.com/PrismJS/prism) [![GitHub forks](https://img.shields.io/github/forks/npm/cli.svg?style=social)](https://github.com/npm/cli/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli.svg?style=social)](https://github.com/npm/cli/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
 
 -   Bootstrap
     -   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
@@ -99,12 +99,12 @@ codesniffer.ruleset.xml export-ignore
     -   A popper is an element on the screen which "pops out" from the natural flow of your application.
     -   Common examples of poppers are tooltips, popovers, and drop-downs.
     -   Copyright © 2016 Federico Zivolo and contributors
-    -   <a href="https://travis-ci.org/FezVrasta/popper.js/branches" target="_blank"><img src="https://travis-ci.org/FezVrasta/popper.js.svg?branch=master" alt="Build Status"/></a> [![GitHub forks](https://img.shields.io/github/forks/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/network) [![GitHub stars](https://img.shields.io/github/stars/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/stargazers) [![GitHub license](https://img.shields.io/github/license/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/blob/master/LICENSE.md)
+    -   <a href="https://travis-ci.org/FezVrasta/popper.js/branches" target="_blank"><img src="https://travis-ci.org/FezVrasta/popper.js.svg?branch=master" alt="Build Status"/></a> [![GitHub release](https://img.shields.io/github/release/FezVrasta/popper.js.svg?style=social)](https://github.com/PrismJS/prism) [![GitHub forks](https://img.shields.io/github/forks/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/network) [![GitHub stars](https://img.shields.io/github/stars/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/stargazers) [![GitHub license](https://img.shields.io/github/license/FezVrasta/popper.js.svg?style=social)](https://github.com/FezVrasta/popper.js/blob/master/LICENSE.md)
 -   PrismJS v1.15.0
     -   Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in thousands of websites, including some of those you visit daily.
     -   Copyright (c) 2012 Lea Verou
     -   <https://prismjs.com/>
-    -   [![GitHub release](https://img.shields.io/github/release/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism) [![GitHub forks](https://img.shields.io/github/forks/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism/network) [![GitHub stars](https://img.shields.io/github/stars/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism/stargazers) [![GitHub license](https://img.shields.io/github/license/PrismJS/prism.svg)](https://github.com/PrismJS/prism/blob/master/LICENSE)
+    -   [![GitHub release](https://img.shields.io/github/release/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism) [![GitHub forks](https://img.shields.io/github/forks/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism/network) [![GitHub stars](https://img.shields.io/github/stars/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism/stargazers) [![GitHub license](https://img.shields.io/github/license/PrismJS/prism.svg?style=social)](https://github.com/PrismJS/prism/blob/master/LICENSE)
 
 \*
   \*
