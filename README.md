@@ -78,14 +78,12 @@ codesniffer.ruleset.xml export-ignore
 
 ### Credits [≪](#folio-read-me)
 -   This repository began as a fork of following the steps in [https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-addbootstrap-4-to-jekyll-the-right-way/).
-    -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
-
-
+    -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
 -   NPM
     -   The npm application
     -   Copyright (c) npm, Inc. and Contributors
     -   Licensed on the terms of The Artistic License 2.0
-    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub forks](https://img.shields.io/github/forks/npm/cli/npm.svg?style=social)](https://github.com/npm/npm/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli/npm.svg?style=social)](https://github.com/npm/npm/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
+    -   [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg?style=social)](https://travis-ci.org/npm/cli) [![GitHub forks](https://img.shields.io/github/forks/npm/cli.svg)](https://github.com/npm/cli/network) [![GitHub stars](https://img.shields.io/github/stars/npm/cli.svg)](https://github.com/npm/cli/stargazers) [![GitHub license](https://img.shields.io/github/license/npm/cli.svg?style=social)](https://github.com/npm/cli/blob/latest/LICENSE)
 
 -   Bootstrap
     -   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
