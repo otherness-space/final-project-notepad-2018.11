@@ -79,6 +79,8 @@ codesniffer.ruleset.xml export-ignore
 ### Credits [≪](#folio-notepad#folio-read-me)
 -   This repository began as a fork of following the steps in [https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-addbootstrap-4-to-jekyll-the-right-way/).
     -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
+-   This repository is my fork with my edits to suit my repo [https://github.com/otherness-space/jekyll-bootstrap4#testing-locally](https://github.com/otherness-space/jekyll-bootstrap4#testing-locally).
+    -   [![GitHub forks](https://img.shields.io/github/forks/otherness-space/jekyll-bootstrap4.svg?style=social)](https://github.com/otherness-space/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/otherness-space/jekyll-bootstrap4.svg?style=social)](https://github.com/otherness-space/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/otherness-space/jekyll-bootstrap4.svg?style=social)](https://github.com/otherness-space/jekyll-bootstrap4/blob/master/LICENSE)
 -   NPM
     -   The npm application
     -   Copyright (c) npm, Inc. and Contributors
