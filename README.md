@@ -1,4 +1,4 @@
-# [Folio](https://github.com/otherness-space/folio/) [Read Me](https://github.com/otherness-space/folio/README.md)
+# [Folio](https://github.com/otherness-space/folio-notepad/) [Read Me](https://github.com/otherness-space/folio-notepad/README.md)
 
 ## Contents
 
@@ -16,15 +16,15 @@
 
 * * *
 
-## About [≪](#folio-read-me)
+## About [≪](#folio-notepad#folio-read-me)
 
 This is a starter repo.
 
-### Who [≪](#folio-read-me)
+### Who [≪](#folio-notepad#folio-read-me)
 
 Your Mom's blank repo.
 
-### What [≪](#folio-read-me)
+### What [≪](#folio-notepad#folio-read-me)
 
 Blank repo.
 
@@ -34,29 +34,29 @@ Blank repo.
     -   [ ] D
 -   [ ] E
 
-### Where [≪](#folio-read-me)
+### Where [≪](#folio-notepad#folio-read-me)
 
 Blank
 
-### Why [≪](#folio-read-me)
+### Why [≪](#folio-notepad#folio-read-me)
 
 Blank
 
-### How [≪](#folio-read-me)
+### How [≪](#folio-notepad#folio-read-me)
 
 * * *
 
-## Notes [≪](#folio-read-me)
+## Notes [≪](#folio-notepad#folio-read-me)
 
-### Note 1 [≪](#folio-read-me)
+### Note 1 [≪](#folio-notepad#folio-read-me)
 
-### Note 2 [≪](#folio-read-me)
+### Note 2 [≪](#folio-notepad#folio-read-me)
 
 * * *
 
-## Appendix [≪](#folio-read-me)
+## Appendix [≪](#folio-notepad#folio-read-me)
 
-### .gitattributes [≪](#folio-read-me)
+### .gitattributes [≪](#folio-notepad#folio-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -70,13 +70,13 @@ codesniffer.ruleset.xml export-ignore
 
 <https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository>
 
-### .gitignore [≪](#folio-read-me)
+### .gitignore [≪](#folio-notepad#folio-read-me)
 
-### .exclude [≪](#folio-read-me)
+### .exclude [≪](#folio-notepad#folio-read-me)
 
 * * *
 
-### Credits [≪](#folio-read-me)
+### Credits [≪](#folio-notepad#folio-read-me)
 -   This repository began as a fork of following the steps in [https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-addbootstrap-4-to-jekyll-the-right-way/).
     -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
 -   NPM
