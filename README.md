@@ -1,4 +1,4 @@
-# [Folio](https://github.com/otherness-space/folio-notepad/) [Read Me](https://github.com/otherness-space/folio-notepad/README.md)
+# [Folio](https://github.com/otherness-space/folio-notepad/) [Read Me](https://github.com/otherness-space/folio-notepad/blob/master/README.md)
 
 ## Contents
 
