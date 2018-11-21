@@ -39,11 +39,11 @@
 				<!-- <li class="nav-item">
 					<a id="newNote" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="new">create</i></a>
 				</li> -->
-				<li class="nav-item">
+				<!-- <li class="nav-item">
 					<a class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="open note">note</i></a>
-				</li>
+				</li> -->
 				<li class="nav-item">
-					<a class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="add note">note_add</i></a>
+					<a id="newNote" class="nav-link" href="#" onclick="newNote()"><i class="material-icons" data-toggle="tooltip" data-html="true" title="new note">note_add</i></a>
 				</li>
 				<li class="nav-item">
 					<a id="saveNote" class="nav-link" href="#" onclick="addNote()"><i class="material-icons" data-toggle="tooltip" data-html="true" title="save">save</i></a>
@@ -63,9 +63,9 @@
 				<li class="nav-item">
 					<a id="" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="remove">remove</i></a>
 				</li> -->
-				<li class="nav-item">
+				<!-- <li class="nav-item">
 					<a id="deleteNote" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="delete">clear</i></a>
-				</li>
+				</li> -->
 				<!-- <li class="nav-item">
 					<a id="" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="format bold">format_bold</i></a>
 				</li>
@@ -117,21 +117,22 @@
 			<!-- begin section -->
 			<section class="col-lg-8">
 				<form class="" action="index.html" method="post">
-					<input id="noteTitle" class="form-control form-control-lg" type="text" placeholder="note title">
+					<input id="noteTitle" class="form-control form-control-lg title-note" type="text" placeholder="note title">
 					<div class="form-group main-form">
 						<!-- <label for="formControlTextarea1"></label> -->
-						<textarea class="form-control" id="noteBody" rows="4" placeholder="body"></textarea>
+						<textarea class="form-control title-body" id="noteBody" rows="4" placeholder="body"></textarea>
 					</div>
-					<div class="form-group">
+					<!-- <div class="form-group"> -->
 						<!-- <label for="formControlTextarea2"></label> -->
-						<textarea class="form-control" id="noteSnippet" rows="1" placeholder="snippet to ctrl body summary"></textarea>
-					</div>
+						<!-- <textarea class="form-control" id="noteSnippet" rows="1" placeholder="snippet to ctrl body summary"></textarea> -->
+					<!-- </div> -->
 				</form>
 			</section>
 			<!-- end section -->
 		</div>
 			<div>
-				<h1 id="title"></h1>
+				<div id="title"></div>
+				<div id="body"></div>
 			</div>
 
 	</main>

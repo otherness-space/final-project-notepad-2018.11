@@ -4,14 +4,15 @@ function addNote() {
   // get values from input
   let noteTitle = document.getElementById('noteTitle').value;
   let noteBody = document.getElementById('noteBody').value;
-  let noteSnippet = document.getElementById('noteSnippet').value;
+  // let noteSnippet = document.getElementById('noteSnippet').value;
 
   notes.push({
     title: noteTitle,
     body: noteBody,
-    snippet: noteSnippet
+    // snippet: noteSnippet
   });
 document.getElementById('noteTitle').value = ``;
+document.getElementById('noteBody').value = ``;
   displayNotes();
   console.log(notes);
 }
@@ -41,13 +42,25 @@ function displayNotes() {
   }
 
   function openNote(index) {
-    document.getElementById('title').innerText =
+    document.getElementById('noteTitle').value =
     `
     ${notes[index].title}
     `
-    document.getElementById('noteTitle').innerHTML= `${notes[index].body}`
+    document.getElementById('noteBody').value =
+    `
+    ${notes[index].body}
+    `
+    // document.getElementById('noteTitle').innerHTML = `${notes[index].body}`
     console.log(notes[index].title)
+    console.log(notes[index].body)
     displayNotes();
+  }
+
+  function newNote(){
+    document.getElementById('noteTitle').value = ``;
+    document.getElementById('noteBody').value = ``;
+      displayNotes();
+      console.log('newNote');
   }
 
   function deleteNote(index) {
