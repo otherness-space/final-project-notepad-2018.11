@@ -21,4 +21,4 @@ serve: install include-npm-deps
 	JEKYLL_ENV=development $(JEKYLL) serve
 
 generate-githubpages:
-	rm -fr JEKYLL_ENV=production $(JEKYLL) build --baseurl https://otherness-space.github.io/folio-notepad/ -d && touch .nojekyll
+	rm -fr JEKYLL_ENV=production $(JEKYLL) build --baseurl https://otherness-space.github.io/final-project-notepad-2018.11/ -d && touch .nojekyll

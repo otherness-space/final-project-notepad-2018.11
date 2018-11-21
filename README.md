@@ -1,4 +1,4 @@
-# [Folio](https://github.com/otherness-space/folio-notepad/) [Read Me](https://github.com/otherness-space/folio-notepad/blob/master/README.md)
+# [Folio](https://github.com/otherness-space/final-project-notepad-2018.11/) [Read Me](https://github.com/otherness-space/final-project-notepad-2018.11/blob/master/README.md)
 
 ## Contents
 
@@ -16,15 +16,15 @@
 
 * * *
 
-## About [≪](#folio-notepad#folio-read-me)
+## About [≪](#final-project-notepad-2018.11#folio-read-me)
 
 This is a starter repo.
 
-### Who [≪](#folio-notepad#folio-read-me)
+### Who [≪](#final-project-notepad-2018.11#folio-read-me)
 
 Your Mom's blank repo.
 
-### What [≪](#folio-notepad#folio-read-me)
+### What [≪](#final-project-notepad-2018.11#folio-read-me)
 
 Blank repo.
 
@@ -34,29 +34,29 @@ Blank repo.
     -   [ ] D
 -   [ ] E
 
-### Where [≪](#folio-notepad#folio-read-me)
+### Where [≪](#final-project-notepad-2018.11#folio-read-me)
 
 Blank
 
-### Why [≪](#folio-notepad#folio-read-me)
+### Why [≪](#final-project-notepad-2018.11#folio-read-me)
 
 Blank
 
-### How [≪](#folio-notepad#folio-read-me)
+### How [≪](#final-project-notepad-2018.11#folio-read-me)
 
 * * *
 
-## Notes [≪](#folio-notepad#folio-read-me)
+## Notes [≪](#final-project-notepad-2018.11#folio-read-me)
 
-### Note 1 [≪](#folio-notepad#folio-read-me)
+### Note 1 [≪](#final-project-notepad-2018.11#folio-read-me)
 
-### Note 2 [≪](#folio-notepad#folio-read-me)
+### Note 2 [≪](#final-project-notepad-2018.11#folio-read-me)
 
 * * *
 
-## Appendix [≪](#folio-notepad#folio-read-me)
+## Appendix [≪](#final-project-notepad-2018.11#folio-read-me)
 
-### .gitattributes [≪](#folio-notepad#folio-read-me)
+### .gitattributes [≪](#final-project-notepad-2018.11#folio-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -70,13 +70,13 @@ codesniffer.ruleset.xml export-ignore
 
 [https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository)
 
-### .gitignore [≪](#folio-notepad#folio-read-me)
+### .gitignore [≪](#final-project-notepad-2018.11#folio-read-me)
 
-### .exclude [≪](#folio-notepad#folio-read-me)
+### .exclude [≪](#final-project-notepad-2018.11#folio-read-me)
 
 * * *
 
-### Credits [≪](#folio-notepad#folio-read-me)
+### Credits [≪](#final-project-notepad-2018.11#folio-read-me)
 -   This repository began as a fork of following the steps in [https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-addbootstrap-4-to-jekyll-the-right-way/).
     -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
 -   This repository is my fork with my edits to suit my repo [https://github.com/otherness-space/jekyll-bootstrap4#testing-locally](https://github.com/otherness-space/jekyll-bootstrap4#testing-locally).
