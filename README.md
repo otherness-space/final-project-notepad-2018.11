@@ -1,4 +1,4 @@
-# [Folio](https://github.com/otherness-space/final-project-notepad-2018.11/) [Read Me](https://github.com/otherness-space/final-project-notepad-2018.11/blob/master/README.md)
+# [Final Project Notepad](https://github.com/otherness-space/final-project-notepad-2018.11/) [Read Me](https://github.com/otherness-space/final-project-notepad-2018.11/blob/master/README.md)
 
 ## Contents
 
