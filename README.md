@@ -16,15 +16,15 @@
 
 * * *
 
-## About [≪](#folio-read-me)
+## About [≪](#final-project-notepad-read-me)
 
 This is a starter repo.
 
-### Who [≪](#folio-read-me)
+### Who [≪](#final-project-notepad-read-me)
 
 Your Mom's blank repo.
 
-### What [≪](#folio-read-me)
+### What [≪](#final-project-notepad-read-me)
 
 Blank repo.
 
@@ -34,29 +34,29 @@ Blank repo.
     -   [ ] D
 -   [ ] E
 
-### Where [≪](#folio-read-me)
+### Where [≪](#final-project-notepad-read-me)
 
 Blank
 
-### Why [≪](#folio-read-me)
+### Why [≪](#final-project-notepad-read-me)
 
 Blank
 
-### How [≪](#folio-read-me)
+### How [≪](#final-project-notepad-read-me)
 
 * * *
 
-## Notes [≪](#folio-read-me)
+## Notes [≪](#final-project-notepad-read-me)
 
-### Note 1 [≪](#folio-read-me)
+### Note 1 [≪](#final-project-notepad-read-me)
 
-### Note 2 [≪](#folio-read-me)
+### Note 2 [≪](#final-project-notepad-read-me)
 
 * * *
 
-## Appendix [≪](#folio-read-me)
+## Appendix [≪](#final-project-notepad-read-me)
 
-### .gitattributes [≪](#folio-read-me)
+### .gitattributes [≪](#final-project-notepad-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -70,13 +70,13 @@ codesniffer.ruleset.xml export-ignore
 
 [https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository)
 
-### .gitignore [≪](#folio-read-me)
+### .gitignore [≪](#final-project-notepad-read-me)
 
-### .exclude [≪](#folio-read-me)
+### .exclude [≪](#final-project-notepad-read-me)
 
 * * *
 
-### Credits [≪](#folio-read-me)
+### Credits [≪](#final-project-notepad-read-me)
 -   This repository began as a fork of following the steps in [https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/](https://simpleit.rocks/ruby/jekyll/tutorials/how-to-addbootstrap-4-to-jekyll-the-right-way/).
     -   [![GitHub forks](https://img.shields.io/github/forks/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/network) [![GitHub stars](https://img.shields.io/github/stars/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/stargazers) [![GitHub license](https://img.shields.io/github/license/marcanuy/jekyll-bootstrap4.svg?style=social)](https://github.com/marcanuy/jekyll-bootstrap4/blob/master/LICENSE)
 -   This repository is my fork with my edits to suit my repo [https://github.com/otherness-space/jekyll-bootstrap4#testing-locally](https://github.com/otherness-space/jekyll-bootstrap4#testing-locally).
