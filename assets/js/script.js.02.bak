@@ -18,3 +18,27 @@ function displayNotes(){
     notes[i]
   }
 }
+
+
+
+--------------------------------------------------------------------------------
+
+<div id='archiveRow' class=''>
+  <div id='noteOptions' class=''>
+    <li class="nav-item">
+      <a id="newNote" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="new">create</i></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="open note">note</i></a>
+    </li>
+    <li class="nav-item">
+      <a id="deleteNote" class="nav-link" href="#"><i class="material-icons" data-toggle="tooltip" data-html="true" title="delete">clear</i></a>
+    </li>
+  </div>
+  <div id='noteSnippet' class=''>
+  </div>
+</div>
+
+
+${notes[i].body}
+${notes[i].snippet}

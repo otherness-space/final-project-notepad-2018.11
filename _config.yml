@@ -16,4 +16,6 @@ exclude:
   - assets/css/prism.css
   - assets/css/style.css
   - assets/js/prism.js
-  - assets/js/script.js
+  - assets/js/script.js.01.bak
+  - assets/js/script.js.02.bak
+#  - assets/js/script.js
